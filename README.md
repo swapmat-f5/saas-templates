@@ -1,2 +1,2 @@
 # saas-templates
-Test SaaS apps
+Test SaaS apps templates
